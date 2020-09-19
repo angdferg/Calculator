@@ -1,8 +1,8 @@
+<h1>Adding Calculator</h1>
 <html lang="en">
 
 <head>
 
-title: Angel Ferguson - Working with Programming
 
 <meta charset="utf-8">
 </head>
