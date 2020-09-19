@@ -1,4 +1,4 @@
-<h1>Adding Calculator</h1>
+<h1>This calculator is meant to <b>only</b>add two numbers together. After both number have been entered,<br>the answer will appear below :) </h1>
 <html lang="en">
 
 <head>
@@ -10,7 +10,7 @@
 
 <body>
 
-<h1>  The answer is: </h1>
+<h2>  The answer is: </h2>
 <p id="answer"> </p> 
 
 <main>
@@ -23,6 +23,7 @@ document.getElementById ('answer').innerHTML=sum;
 </main>
 
 <footer>
+  <h6>Created for Working with Programming Assignment</h6>
 </footer>
 
 </body>
