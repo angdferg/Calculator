@@ -1,4 +1,4 @@
-<h1>This calculator is meant to <b>only</b>add two numbers together. After both number have been entered,<br>the answer will appear below :) </h1>
+<h1>This calculator is meant to add only two numbers together. After both number have been entered,<br>the answer will appear below :) </h1>
 <html lang="en">
 
 <head>
