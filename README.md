@@ -1,5 +1,3 @@
-##Addition Calculator
-
 <html lang="en">
 
 <head>
